@@ -31,9 +31,3 @@ A 2D Cooking Dash Game with multiple features using C#, WinForms and SQL Databse
 - LinkedIn: [Nishat Fatima](https://www.linkedin.com/in/nishat-fatima-26400238b?utm_source=share_via&utm_content=profile&utm_medium=member_android)
 - GitHub: [NishatFatima-tech](https://github.com/NishatFatima-tech)
 
-## Interests
-
-- Web Development
-- Software Engineering
-- Artificial Intelligence
-- Learning New Technologies
